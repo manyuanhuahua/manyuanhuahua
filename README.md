@@ -1,4 +1,4 @@
-### Hi there 👋
+### <img src="https://3.bp.blogspot.com/-Pvt8zmG6u-I/Wgzolmh6QHI/AAAAAAAKLgY/3rfh_N6keGADwFfTwZUI4H_o5fkYfsVJACLcBGAs/s1600/AS003312_13.gif" />  Hi there, I'm Ting 👋
 
 <!--
 **manyuanhuahua/manyuanhuahua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
