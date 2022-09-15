@@ -1,5 +1,4 @@
-<img src={![AS003427_00 (1) (1)](https://user-images.githubusercontent.com/101086307/190308534-e4e476fc-d2c5-46c4-ae42-9ec1c84dd1fa.gif)
-} /> *** Hi there, I'm Ting 👋
+ ![AS003427_00 (1) (1)](https://user-images.githubusercontent.com/101086307/190308594-796758b0-d572-4f40-b00c-40e4ab5e10b4.gif)*** Hi there, I'm Ting 👋
 
 
 
