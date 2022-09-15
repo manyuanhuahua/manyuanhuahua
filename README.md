@@ -8,9 +8,10 @@ const thisIsTing = () =>{
    👯 const hobbies = ['coastal foraging', 'hiking','travelling']
    
    return `${name} is a ${position} and she likes ${hobbies[0]}, ${hobbies[1]} and ${hobbies[2]}, 
-          please feel free to contact her to share some funny projects!`
+          please feel free to contact her to share some fun projects!`
 }
 
+console.log(thisIsTing())
 ```
 
 ## My Stats
